@@ -1,3 +1,3 @@
 # GUI_Cal
 
-#A simple GUI Calculator made with python3
+# A simple GUI Calculator made with python3
